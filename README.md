@@ -11,8 +11,8 @@ Program sederhana untuk mempraktikkan dokumentasi kode menggunakan **README**.
 3. Jalankan file `HelloWorld.java` (kelas utama yang tersedia)
 
 ## 📁 Struktur Proyek
-CL_Modul3/
-├── src/
+CL_Modul3
+├── src
 │ └── HelloWorld.java # Titik masuk program
 └── README.md # File dokumentasi ini
 
